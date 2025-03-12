@@ -92,12 +92,12 @@ is_read BOOLEAN DEFAULT FALSE
 ### Default Admin User:
 
 - **Username:** kuma
-- **Password:** 1234
+- **Password:** ****
 
 ### Default Employee User:
 
 - **Username:** korsiye
-- **Password:** 1234
+- **Password:** ****
 
 ## Usage
 
@@ -108,4 +108,4 @@ is_read BOOLEAN DEFAULT FALSE
 - **Employee**
   - View assigned tasks.
   - Update task status and progress.
-  - Receive notifications for task updates.
+  - Receive notifications for new task or task updates.
